@@ -9,7 +9,9 @@
 			6. Create a "Subscription" contact to localhost:1400/monitor
 
 ## 作法or步驟:
-                  ![screenshots/postman01.png]
+| Codelab | Questions | Points |
+| --- | ----------- | ---|
+| 01.1 | An Activity that displays "Hello World" on the screen <br> ![screenshots/01_1-newActivity.png](screenshots/01_1-newActivity.png) | 3 pt |
 
 
 
