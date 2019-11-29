@@ -10,11 +10,12 @@
 
 ## 作法or步驟:
 
-| 01.1 | 1. Create a "MY_SENSOR" Application <br> ![screenshots/postman01.png](screenshots/postman01.png) 
-
-
-
-
+1. Create a "MY_SENSOR" Application <br> ![screenshots/postman01.png](screenshots/postman01.png) 
+2. Create a "DESCRIPTOR" container <br> ![screenshots/postman02.png](screenshots/postman02.png)
+3. Create a "DESCRIPTOR contentInsances" <br> ![screenshots/postman03.png](screenshots/postman03.png)
+4. Create a "DATA" container <br> ![screenshots/postman04.png](screenshots/postman04.png)
+5. Create a "DATA contentInsances" <br> ![screenshots/postman05.png](screenshots/postman05.png)
+6. Create a "Subscription" contact to localhost:1400/monitor <br> ![screenshots/postman06.png](screenshots/postman06.png)
 # LAB3_OM2M  GA with Node-red
 ## 目標:
     使用 node-red 在GSCL分別建立以下 Entities
