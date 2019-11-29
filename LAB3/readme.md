@@ -29,7 +29,7 @@
 
 ## 作法or步驟:
           
-	  1. 使用 node-red 在GSCL分別建立以下 Entities <br> ![screenshots/node-red01.png](screenshots/node-red01.png)
+1. 使用 node-red 在GSCL分別建立以下 Entities <br> ![screenshots/node-red01.png](screenshots/node-red01.png)
 
 
 
