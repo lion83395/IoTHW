@@ -28,7 +28,7 @@
 	
 
 ## 作法or步驟:
-                 <br> ![screenshots/node-red01.png](screenshots/node-red01.png)
+          使用node-red建立entities       <br> ![screenshots/node-red01.png](screenshots/node-red01.png)
 
 
 
