@@ -9,7 +9,7 @@
 			6. Create a "Subscription" contact to localhost:1400/monitor
 
 ## 作法or步驟:
-                  ![screenshots/postman01.png](screenshots/postman01.png)
+                  ![screenshots/postman01.png]
 
 
 
