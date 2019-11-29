@@ -45,4 +45,5 @@
 	3. 開啟 /getxmlfile Server 負責讀取先前儲存的資料
     
 ## 作法or步驟:
-                  >>write something here<<
+   1. 使用 node-red 在NSCL分別建立以下 Entities <br> ![screenshots/node-red02.png](screenshots/node-red02.png)
+   結果 <br> ![screenshots/result.png](screenshots/result.png)
