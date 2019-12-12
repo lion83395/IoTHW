@@ -1,0 +1,1 @@
+[{"id":"daf45a4b.98e0d8","type":"function","z":"9bd949e9.0a72b8","name":"","func":"\nvar name=msg.payload.obj.str[2].$.val;\nvar state=msg.payload.obj.bool[0].$.val;\nmsg.payload={\n    \"lamp\":name,\n    \"state\":state\n}\n\n\n\nreturn msg;","outputs":1,"noerr":0,"x":560.6666793823242,"y":1083.0000314712524,"wires":[["7817768c.43e4a8","e4a3a98c.6841d8"]]}]
